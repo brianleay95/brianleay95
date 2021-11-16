@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brianleay95
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javescript, bootstrap.
 - 💞️ I’m looking to collaborate on full stack dev roles.
 - 📫 How to reach me on twitter @brianleay
 
